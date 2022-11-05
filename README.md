@@ -1,9 +1,9 @@
 # 📽️Cinema-app📽️
 ![img.png](img.png)
 This app contains only with backend part that mimics the ticket booking system of a movie theatre.
-
-👤As an administrator, you have access to almost all options:
 _____________________________________________________________________________________________________
+👤As an administrator, you have access to almost all options:
+
 🔸add new movies;
 
 🔸add new cinema halls;
@@ -11,9 +11,9 @@ ________________________________________________________________________________
 🔸add (update, delete) new sessions;
 
 🔸receive user by email;
-
-👥As a user, you can:
 _______________________________________________________________________________________________________
+👥As a user, you can:
+
 🔸register (when registering, a basket associated with the user will be automatically created);
 
 🔸add a session to your shopping cart (only the user has access);
@@ -23,9 +23,9 @@ ________________________________________________________________________________
 🔸get of all your orders (only the user has access);
 
 🔸change the session from the shopping cart (only the user has access).
-
-📎Implementation details:
 _______________________________________________________________________________________________________
+📎Implementation details:
+
 Project-based on 3-layer architecture:
 
 🔸Application layer (services);
@@ -33,9 +33,9 @@ Project-based on 3-layer architecture:
 🔸Data Access Layer (DAO);
 
 🔸Presentation layer (controllers);
-
-⚙️Technologies used:
 _______________________________________________________________________________________________________
+⚙️Technologies used:
+
 🔸Hibernate
 🔸Spring Core
 🔸Spring MVC
@@ -43,9 +43,9 @@ ________________________________________________________________________________
 🔸MySQL
 🔸Apache TomCat
 🔸Maven
-
-💻Instructions for starting this project:
 ___________________________________________________________________________________________________________
+💻Instructions for starting this project:
+
 1. Clone this project into the IDE as a Maven project.
 2. Run the mvn clean package and if you find any errors, fix them.
 3. Create a new schema in the database.
