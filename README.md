@@ -1,13 +1,16 @@
-# Cinema-app
+# 📽️Cinema-app📽️
 ![img.png](img.png)
 This app contains only with backend part that mimics the ticket booking system of a movie theatre.
+
 As an administrator, you have access to almost all options:
+_____________________________________________________________________________________________________
 🔸add new movies;
 🔸add new cinema halls;
 🔸add (update, delete) new sessions;
 🔸receive user by email;
 
 As a user, you can:
+_______________________________________________________________________________________________________
 🔸register (when registering, a basket associated with the user will be automatically created);
 🔸add a session to your shopping cart (only the user has access);
 🔸get of all films, cinema halls, and sessions;
@@ -15,12 +18,14 @@ As a user, you can:
 🔸change the session from the shopping cart (only the user has access).
 
 Implementation details:
+_______________________________________________________________________________________________________
 Project-based on 3-layer architecture:
 🔸Application layer (services);
 🔸Data Access Layer (DAO);
 🔸Presentation layer (controllers);
 
-Technologies used:
+⚙️Technologies used:
+_______________________________________________________________________________________________________
 🔸Hibernate
 🔸Spring Core
 🔸Spring MVC
