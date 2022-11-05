@@ -2,7 +2,7 @@
 ![img.png](img.png)
 This app contains only with backend part that mimics the ticket booking system of a movie theatre.
 
-As an administrator, you have access to almost all options:
+👤As an administrator, you have access to almost all options:
 _____________________________________________________________________________________________________
 🔸add new movies;
 
@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 🔸receive user by email;
 
-As a user, you can:
+👥As a user, you can:
 _______________________________________________________________________________________________________
 🔸register (when registering, a basket associated with the user will be automatically created);
 
@@ -24,7 +24,7 @@ ________________________________________________________________________________
 
 🔸change the session from the shopping cart (only the user has access).
 
-Implementation details:
+📎Implementation details:
 _______________________________________________________________________________________________________
 Project-based on 3-layer architecture:
 🔸Application layer (services);
@@ -43,7 +43,7 @@ ________________________________________________________________________________
 🔸Apache TomCat
 🔸Maven
 
-Instructions for starting this project:
+💻Instructions for starting this project:
 ___________________________________________________________________________________________________________
 1. Clone this project into the IDE as a Maven project.
 2. Run the mvn clean package and if you find any errors, fix them.
