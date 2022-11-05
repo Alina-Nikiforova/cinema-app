@@ -20,7 +20,7 @@ ________________________________________________________________________________
 
 🔸get of all films, cinema halls, and sessions;
 
-🔸get t of all your orders (only the user has access);
+🔸get of all your orders (only the user has access);
 
 🔸change the session from the shopping cart (only the user has access).
 
